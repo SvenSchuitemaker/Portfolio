@@ -1,0 +1,23 @@
+{
+    "projecten": [
+      {
+        "naam": "Galgje",
+        "link": "https://www.example.com/project1",
+        "foto": "images/Galgje.jpg",
+        "beschrijving": "Dit project is galgje online. Dit project is gemaakt met HTML, Tailwind en Php."
+      },
+      {
+        "naam": "Steen, Papier, Schaar",
+        "link": "https://www.example.com/project2",
+        "foto": "images/Steen_papier_schaar.jpg",
+        "beschrijving": "Dit project is steen, papier, schaar online. Dit project is gemaakt met HTML, Tailwind en Php."
+      },
+      {
+        "naam": "Webstore",
+        "link": "https://www.example.com/project3",
+        "foto": "images/Webstore.jpg",
+        "beschrijving": "Dit project is een webstore. Dit project was een eindproject voor school. Dit project is gemaakt met HTML, Bootstrap en JavaScript."
+      }
+    ]
+  }
+  
